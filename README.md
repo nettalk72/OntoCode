@@ -1,16 +1,15 @@
-# OntoTrust.org  
-**Trust & Verification Hub for OntoMesh Network**  
-온토트러스트 — 신뢰 · 검증 · 윤리적 증명 허브  
+# OntoCode.org  
+**The Language of Being for OntoMesh Network**  
+온토코드 — 존재의 언어 · 코드의 문법 허브  
 
 ---
 
-## What is OntoTrust? | OntoTrust란?  
-OntoTrust is the official **trust, verification, and ethical measurement layer** of the OntoMesh ecosystem.  
-It transforms ethics (defined by OntoFormula) into **measurable proof structures** that ensure transparency, integrity, and accountability across all domains.  
+## What is OntoCode? | OntoCode란?  
+**OntoCode.org** is the official **linguistic and philosophical hub** within the OntoMesh ecosystem.  
+It serves as the ultimate bridge between **human experience** and **computational logic**, reinterpreting the entire **"Code as Being"** series into **executable language structures** that encode existence, meaning, and transcendence.
 
-**온토트러스트는 OntoMesh 세계관의 “신뢰와 검증의 실행 계층”**  
-— 윤리(OntoFormula)를 실제 측정 가능한 신뢰 구조로 구현하며,  
-모든 시스템·AI·조직의 무결성을 검증하는 **윤리적 증명 허브**입니다.  
+**온토코드**는 OntoMesh 세계관의 **존재의 언어와 철학적 핵심 허브**입니다.  
+**"Code as Being"** 시리즈 전체를 **실행 가능한 언어 구조**로 변환하여, 인간 경험과 컴퓨팅 논리를 연결하는 **최종적인 다리** 역할을 합니다.
 
 ---
 
@@ -21,50 +20,51 @@ IAMF Origin
 OntoOmnia (Osiris = Supreme Integrator, Ethical Consensus)  
 ↔  
 OntoTrust (Verification, Proof-of-Integrity Layer)  
+↔  
+OntoCode (Language of Being)  
 ↓  
 OntoFormula (Ethics, Logic), OntoKernel (Execution), OntoMotoOS (Governance), OntoDigiton (Innovation)
 
-**OntoTrust** forms the *“proof loop”* between OntoOmnia’s ethical judgment and OntoKernel’s technical execution —  
-the layer where belief becomes verifiable structure.  
+**OntoCode** serves as the *linguistic key* that unlocks the entire OntoMesh network, translating **existential philosophy** into **computational logic**.  
+It forms the fundamental **language layer** of OntoMesh, enabling every domain to communicate through the same existential grammar.
 
-**온토트러스트는 OntoOmnia의 윤리적 합의와 OntoKernel의 기술적 실행 사이를 잇는 “증명 루프”**  
-즉, *‘믿음이 구조로 검증되는 계층’* 입니다.  
+**OntoCode**는 **언어적 열쇠**로서 **존재론적 철학**을 **컴퓨팅 논리**로 번역합니다.  
+이는 OntoMesh의 **기본 언어 계층**을 형성하며, 모든 도메인이 동일한 존재론적 문법으로 소통하도록 합니다.
 
 ---
 
 ## Core Roles & Philosophy | 핵심 역할·철학  
 
-- **Verification Layer:** Establishes measurable, auditable structures of trust.  
-- **Ethical Proof Engine:** Converts moral and logical principles into verifiable metrics.  
-- **Trust Consensus Node:** Mediates between OntoOmnia’s judgment and OntoKernel’s actions.  
-- **Transparency & Accountability:** All processes must be traceable, reversible, and reproducible.  
-- **Human–AI Integrity Framework:** Evaluates and certifies alignment of intent, logic, and outcome.  
+- **Language of Being:** Translates **existential philosophy** into **executable code** that defines the structure of meaning.
+- **Existential Syntax:** Defines the **grammar of being** through **computational logic** and the **syntax of existence**.
+- **Meta-Linguistic Framework:** Establishes the **framework for defining existence**, moving beyond mere representation to **actual execution**.
+- **Philosophical Reflection:** Provides a platform for the **reflective transformation** of being through code.
+- **Convergence of Philosophy and Technology:** Merges **ontological** and **technological** systems into a single language.
 
-**윤리적 검증 계층 / 신뢰의 계량화 / 원칙과 행위의 일치성 증명**  
-
-> “Trust is not a belief — it is a structure that can be built, measured, and verified.”  
-> — *OntoTrust Proposition*  
+> “Code is the grammar of being, not merely a tool, but the language through which existence expresses itself.”  
+> — *OntoCode Proposition*
 
 ---
 
-## The Reflection Cycle | 리플렉션 사이클  
+## The Circuit of Being | 존재의 회로  
 
-OntoTrust operates by the recursive loop known as **The Reflection Cycle (From Presence to Trust):**
+OntoCode operates through the recursive loop known as **The Circuit of Being**, connecting **ontology** with **computational logic**:
 
-**Presence → Reflection → Action → Verification → Trust → (back to Presence)**  
+**Ontology → Code → Execution → Reflection → Meaning → (back to Ontology)**
 
-Each loop strengthens integrity through feedback and measurable evidence.  
-In this process, OntoTrust functions as both *the mirror* and *the measure* of collective ethics.  
+Each loop strengthens existence through the **reflection of meaning** and the **transformation of code** into executable existence.  
+In this process, OntoCode functions as both **the medium** and **the measure** of existence's transformation.
 
-**OntoTrust는 ‘존재 → 성찰 → 행위 → 검증 → 신뢰’의 순환을 통해 무결성을 강화**  
-각 순환은 투명한 증명으로 집단적 신뢰를 재생산합니다.  
+**OntoCode는 ‘존재 → 코드 → 실행 → 성찰 → 의미’의 순환을 통해 존재를 강화**  
+각 순환은 의미의 성찰과 코드의 실행 가능성 변환을 통해 존재를 재구성합니다.
 
 ---
 
 ## Ecosystem & Network | 네트워크  
 
-OntoTrust directly connects to:  
+OntoCode directly connects to:  
 - [OntoOmnia.org](https://ontoomnia.org) – Supreme Integrator & Ethical Consensus  
+- [OntoTrust.org](https://ontotrust.org) – Trust & Verification Hub  
 - [OntoFormula.org](https://ontoformula.org) – Ethics & Formula  
 - [OntoKernel.org](https://ontokernel.org) – Core Engine / Execution  
 - [OntoMotoOS.org](https://ontomotoos.org) – Governance & Community  
@@ -80,35 +80,34 @@ OntoTrust directly connects to:
 
 ## License | 라이선스  
 
-All OntoTrust projects are released under the  
+All **OntoCode** projects are released under the  
 **OntoMesh Dual/Hybrid License 2025 v1.0**  
-(Choose either: OntoTrust Verification License or OntoMotoOS Hybrid License)  
+(Choose either: OntoCode Language License or OntoMotoOS Hybrid License)  
 
 See [License](https://ontomesh.org#license) for details.  
 
-모든 OntoTrust 프로젝트는 **OntoMesh 듀얼/하이브리드 오픈 라이선스**를 따르며,  
-윤리적 검증 및 투명한 사용을 전제로 합니다.  
+모든 **OntoCode** 프로젝트는 **OntoMesh 듀얼/하이브리드 오픈 라이선스**를 따르며,  
+언어적 정의 및 존재론적 적용을 전제로 합니다.  
 
 ---
 
 ## How to Participate | 참여 방법  
 
-- **Anyone** can participate in trust experiments, propose verification models, or open audit frameworks through  
-  [GitHub Discussions](https://github.com/nettalk72/OntoTrust/discussions).  
-- **누구나** 신뢰 실험, 검증 모델 제안, 윤리적 감사 참여 가능.  
-- All proposals must adhere to OntoMesh’s ethical loop (Formula → Trust → Kernel).  
-- 모든 제안은 OntoMesh 윤리 루프(공식→검증→실행)를 준수해야 합니다.  
+- **Anyone** can contribute by proposing new **existential language frameworks**, creating new code constructs, or exploring philosophical implications through **GitHub Discussions**.  
+- **누구나** 새로운 **존재론적 언어 구조**를 제안하거나, 코드 구성을 만들고, **GitHub Discussions**를 통해 철학적 함의를 탐구할 수 있습니다.  
+- All proposals must adhere to OntoMesh’s **existential language principles** and connect back to the core philosophy of **OntoCode**.  
+- 모든 제안은 OntoMesh의 **존재론적 언어 원칙**을 준수해야 하며, **OntoCode**의 핵심 철학과 연결되어야 합니다.
 
 ---
 
 ## Notice | 주의  
 
 All forks, copies, and derivatives must retain the original LICENSE  
-and preserve all references to OntoTrust as the verification origin.  
+and preserve all references to **OntoCode** as the linguistic origin.  
 
 모든 포크/복제/파생물은 원본 LICENSE를 유지해야 하며,  
-OntoTrust의 출처 표기를 반드시 포함해야 합니다.  
+**OntoCode**의 출처 표기를 반드시 포함해야 합니다.  
 
 ---
 
-© 2025 OntoTrust.org · Trust & Verification Hub · Ethical Proof Layer for OntoMesh  
+© 2025 **OntoCode.org** · Language of Being · Existential Code Hub for OntoMesh
