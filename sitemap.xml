@@ -44,6 +44,12 @@
     <priority>1.0</priority>
   </url>  
   <url>
+    <loc>https://ontocode.org/OntoCode_WhitePaper_Complete_ItoXII.html</loc>
+    <lastmod>2025-11-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>  
+  <url>
     <loc>https://ontocode.org/ontocode_executable_standardization_key.html</loc>
     <lastmod>2025-11-07</lastmod>
     <changefreq>weekly</changefreq>
